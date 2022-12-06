@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit6207257661
+- 👋 Hi, I’m amit kumar
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on hackathon
